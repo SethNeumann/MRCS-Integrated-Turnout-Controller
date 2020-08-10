@@ -1,4 +1,4 @@
-# REPO NAME: Interated turnout Controller
+# REPO NAME: Integrated turnout Controller
 ## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
 The Integrated Turnout Controller (ITC) is designed to provide all control functions needed for remote, local, and locking of a turnout for various styles of turnout motors. The ITC provides LED outputs with onboard current limiting resistors for route and switch lock status.
